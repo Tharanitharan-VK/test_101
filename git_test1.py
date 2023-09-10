@@ -1,3 +1,3 @@
 import  numpy as np
-n1 = np.arange(1,5)
+n1 = np.arange(1,10)
 print(n1)
